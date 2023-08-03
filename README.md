@@ -1,3 +1,3 @@
 # XibTableViewCellPrac
-## 使用 Xib 客製化 TableViewCell
-### 並將之修改為 MVVM
+## Using Xib File customizse TableViewCell
+### Modify this project from MVC to MVVM Architecture
